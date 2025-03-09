@@ -1,0 +1,11 @@
+{
+    "mongoURI": "your_mongodb_uri",
+    "jwtSecret": "your_jwt_secret",
+    "infuraProjectId": "your_infura_project_id",
+    "infuraProjectSecret": "your_infura_project_secret",
+    "contractAddresses": {
+      "ResearchNFT": "",
+      "CitationRewards": "",
+      "ResearchDAO": ""
+    }
+  }
